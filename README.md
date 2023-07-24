@@ -56,4 +56,4 @@ python helpful_bot.py
 
 ## Usage
 
-To trigger the bot, mention its name or an associated keyword in a Discord channel, followed by your message. The bot will then run its search, scrape data if necessary, and generate a helpful response based on the available information.
+To trigger the bot, mention its name or an associated keyword in a Discord channel, followed by your message. The bot will then run its search, scrape data if necessary, and generate a helpful response based on the available information. By default, the bot is called "Byte". This can be changed in the code by changing any mention of "Byte" to your bot's name.
