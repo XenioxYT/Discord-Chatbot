@@ -1,4 +1,4 @@
-# Helpful Bot README
+# Discord-Chatbot README
 
 Helpful Bot is a Discord bot that can answer questions and perform tasks, such as searching the web and scraping web pages. It utilizes OpenAI's GPT-3.5 Turbo model, Google API, and a back-end web scraper server to fetch relevant information and generate helpful responses.
 
